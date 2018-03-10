@@ -1,5 +1,5 @@
-#ifndef LIST_SORTING_HPP
-#define LIST_SORTING_HPP
+#ifndef LIST_SORTING_H
+#define LIST_SORTING_H
 //Stable sorting algorithms retain the relative ordering of records with equal
 //keys.
 
